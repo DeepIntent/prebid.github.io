@@ -59,8 +59,6 @@ var adUnits = [
                         pos: 1,
                         user: {
                             gender: "F",
-                            uid: "publisher_uid",
-                            buyeruid: "test_buyeruid",
                             yob: 2000  
                         },
                         custom: {
